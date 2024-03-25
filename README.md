@@ -16,7 +16,7 @@
 <h2>🙋‍♀️ About Me</h2>
 <ul>
   <li>전공 : 산업경영공학</li>
-  <li>관심 : Data Engineer & Backend Developer</li>
+  <li>관심 : Backend Developer</li>
   <li>어차피 후회가 남는다면 하고 후회하자</li>
   <li>책임감</li>
 </ul>
