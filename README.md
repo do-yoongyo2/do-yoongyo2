@@ -1,7 +1,5 @@
 <div>
-  <p style="text-align: center; font-size: 24px; font-weight: bold;">안녕하세요 김윤경입니다.
-  </p>
-  <h1> </h1>
+  <h1>안녕하세요 김윤경입니다.</h1>
 
 <br>
 <br>
