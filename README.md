@@ -5,20 +5,20 @@
   </h1>
 <br>
 <br>
+<h2>🏞️ Experience</h2>
+<ul>
+  <li>신한투자증권 프로디지털 아카데미 4기(24.03 - 24.09)</li>
+  <li>새싹-청년취업사관학교 디지털 마켓팅(23.12 - 24.03)</li>
+  <li>QA Engineer 근무 (19.02 - 23.11)</li>
+</ul>
+<br>
+<br>
 <h2>🙋‍♀️ About Me</h2>
 <ul>
   <li>전공 : 산업경영공학</li>
   <li>관심 : Data Engineer & Backend Developer</li>
   <li>어차피 후회가 남는다면 하고 후회하자</li>
   <li>책임감</li>
-</ul>
-<br>
-<br>
-<h2>🏞️ Experience</h2>
-<ul>
-  <li>신한투자증권 프로디지털 아카데미 4기(24.03 - 24.09)</li>
-  <li>새싹-청년취업사관학교 디지털 마켓팅(23.12 - 24.03)</li>
-  <li>QA Engineer 근무 (19.02 - 23.11)</li>
 </ul>
 <br>
 <br>
