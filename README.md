@@ -3,10 +3,8 @@
     끊임 없이 배우고 성장하고 싶은 개발자, 김윤경 입니다. <br>
     같이 열심히 성장해요🔥🔥
   </h1>
-
 <br>
 <br>
-
 <h2>🙋‍♀️ About Me</h2>
 <ul>
   <li>전공 : 산업경영공학</li>
@@ -14,21 +12,16 @@
   <li>어차피 후회가 남는다면 하고 후회하자</li>
   <li>책임감</li>
 </ul>
-
 <br>
 <br>
-
 <h2>🏞️ Experience</h2>
 <ul>
   <li>신한투자증권 프로디지털 아카데미 4기(24.03 - 24.09)</li>
   <li>새싹-청년취업사관학교 디지털 마켓팅(23.12 - 24.03)</li>
   <li>QA Engineer 근무 (19.02 - 23.11)</li>
 </ul>
-    
-
 <br>
 <br>
-
 <h2>🖥️ Tech Stack</h2>
 <ul>
   <li>Programming language : <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R"></li>
@@ -37,19 +30,15 @@
   <li>DB : <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></li>
   <li>Tool : <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white" alt="Jira"></li>
 </ul>
-
 <br>
 <br>
-
 <h2>💌 Social</h2>
 <ul>
   <li>Gmail : <a href="mailto:do.yoongyo2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a></li>
   <li>Instagram : <a href="https://www.instagram.com/yoongyo2"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a></li>
 </ul>
-
 <br>
 <br>
-
 </div>
 
 
